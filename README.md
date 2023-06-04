@@ -7,12 +7,12 @@
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<hr>
+---
 
 ### :man_technologist: About Me :
 I am a Backend  Developer&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-<hr>
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -26,7 +26,7 @@ I am a Backend  Developer&nbsp;<img src="https://media.giphy.com/media/WUlplcMpO
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
 </div>
 
-<hr>
+---
 
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iHoooK&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
